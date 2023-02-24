@@ -1,5 +1,4 @@
-# finalCapstone
-## Project name
+# Project name
 Warehouse Management
 
 ## Description
